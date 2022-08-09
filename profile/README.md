@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/certinize/assets/main/images/org-sample-banner.png" />
+<img src="https://raw.githubusercontent.com/certinize/assets/main/images/organization-banner.png" />
